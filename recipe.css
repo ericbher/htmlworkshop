@@ -1,0 +1,125 @@
+body{
+			background-color: #F2F1E4;
+		}
+		h1{
+			font-family: 'Pacifico', cursive;
+			text-align: center;
+			color: red;
+			font-size: 50px;
+		}
+
+		img {
+			height: 400px;
+			width: 400px;
+		}
+
+		h2 {
+		color: #3F77BF;
+		font-family: 'Montserrat', sans-serif;
+		}
+
+		h3 {
+			font-family: 'Lobster', cursive;
+		}
+
+		#ingredients {
+			background-color: white;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			width: 500px;
+			border-top-right-radius: 25px;
+			border-bottom-right-radius: 25px;
+		}
+
+		#instructions {
+			background-color: white;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			padding-right: 10px;
+			width: 700px;
+			border-top-right-radius: 25px;
+			border-bottom-right-radius: 25px;
+		}
+
+
+
+		.header {
+			border-bottom: 1px solid black;
+			padding-bottom: 0px;
+		}
+
+		form    {
+		background: -webkit-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+		background: -o-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+		background: linear-gradient(to top, #CCCCCC, #EEEEEE 175px);
+		
+		width:550px;
+		height:280px;
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 14px;
+		font-style: italic;
+		line-height: 24px;
+		font-weight: bold;
+		color: #09C;
+		text-decoration: none;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		border-radius: 10px;
+		padding:10px;
+		border: 1px solid #999;
+		border: inset 1px solid #333;
+		-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+		-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+		box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+		}
+
+
+/*		#navbar {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+		}
+
+		#navbar li {
+			display: inline;
+			float: left;
+			width: 120px;
+			border-top: 1px solid black;
+			border-left: 1px solid black;
+			border-right: 1px solid black;
+			padding: 9px 5px 5px 0px;
+			text-align: center;
+			border-top-right-radius: 10px;
+			border-top-left-radius: 10px;
+			background-color: white;*/
+
+		}
+
+		a:link, a:visited {
+			display: block;
+			text-decoration: none;
+			color: #3F77BF;
+
+		}
+
+		table, th, td {
+			border: 1px solid black;
+		}
+
+		table {
+			border-collapse: collapse;
+		}
+
+		table {
+   			 width: 60%;
+		}
+
+		th {	
+    		height: 50px;
+    		background-color: gray;
+		}
+
+		td {
+			text-align: center;
+		}
